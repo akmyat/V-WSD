@@ -1,0 +1,8 @@
+# Ignore log files
+*.log
+
+# Ignore zip files
+*.zip
+
+# Ignore jpg files
+*.jpg
