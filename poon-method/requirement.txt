@@ -1,0 +1,10 @@
+pandas
+transformers
+torch
+torchvision
+seaborn
+sklearn
+scikit-learn
+nltk
+rouge
+matplotlib
